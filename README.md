@@ -24,3 +24,8 @@ El proyecto está organizado en las siguientes carpetas:
 - **Carrera**: Tecnicatura Universitaria en Programación
 - **Comisión**: 1
 - **Universidad**: Universidad Tecnológica Nacional - Facultad Regional Tucumán
+
+## Notas adicionales
+- Se creó una rama adicional (`feature/documentacion-footer-readme`) para cumplir con los requisitos del trabajo práctico.
+- La rama incluye un cambio menor en el archivo `Footer.jsx` (comentario técnico) y documentación sobre la creación de ramas.
+- La rama se fusionó con `main` después de verificar que todo funciona correctamente.

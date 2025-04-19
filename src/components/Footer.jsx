@@ -47,3 +47,4 @@ const Footer = () => {
 };
 
 export default Footer;
+// Este es un cambio menor realizado para probar la creación de ramas en Git.
