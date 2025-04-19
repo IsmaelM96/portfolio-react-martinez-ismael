@@ -2,23 +2,36 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer id= "contact">
+    <footer id="contact">
       <div className="container">
         {/* Contacto */}
         <h2>Contacto</h2>
         <br></br>
         <div className="contact-links">
+          {/* Email */}
           <div className="contact-item">
             <img src="/img/mail-icon.png" alt="Email" className="icon" />
             <p>Email: <a href="mailto:ejemplo@email.com">ejemplo@email.com</a></p>
           </div>
+          {/* LinkedIn */}
           <div className="contact-item">
             <img src="/img/linkedin-icon.png" alt="LinkedIn" className="icon" />
             <p>LinkedIn: <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">Mi Perfil LinkedIn</a></p>
           </div>
+          {/* GitHub */}
           <div className="contact-item">
             <img src="/img/github-icon.png" alt="GitHub" className="icon" />
             <p>GitHub: <a href="https://github.com/" target="_blank" rel="noopener noreferrer">Mi Perfil GitHub</a></p>
+          </div>
+          {/* Facebook */}
+          <div className="contact-item">
+            <img src="/img/facebook-icon.png" alt="Facebook" className="icon" />
+            <p>Facebook: <a href="https://facebook.com/" target="_blank" rel="noopener noreferrer">Mi Perfil Facebook</a></p>
+          </div>
+          {/* Instagram */}
+          <div className="contact-item">
+            <img src="/img/instagram-icon.png" alt="Instagram" className="icon" />
+            <p>Instagram: <a href="https://instagram.com/" target="_blank" rel="noopener noreferrer">Mi Perfil Instagram</a></p>
           </div>
         </div>
 
