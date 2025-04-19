@@ -37,7 +37,7 @@ const Main = () => {
         <div className="container">
           <h2>Sobre mí</h2>
           <div className="content">
-            <p>Un apasionado estudiante de programación con una sólida base en HTML, CSS, JavaScript y C#. Mi enfoque se centra en el desarrollo web, donde busco constantemente nuevas formas de crear experiencias digitales innovadoras y accesibles.</p>
+            <p>Soy Ismael Martinez, estudiante de programación de la Universidad Tecnológica Nacial -Facultad Regional Tucumán con una sólida base en HTML, CSS, JavaScript y C#. Mi enfoque se centra en el desarrollo web, donde busco constantemente nuevas formas de crear experiencias digitales innovadoras y accesibles.</p>
             <p>Desde muy joven me ha fascinado la tecnología y la forma en que puede mejorar la vida de las personas. A lo largo de mi formación, he trabajado en proyectos que me han permitido aplicar mis conocimientos técnicos y mejorar mis habilidades de resolución de problemas.</p>
             <p>Me considero una persona autodidacta, proactiva y en constante búsqueda de mejorar. Aspiro a trabajar en equipos que valoren la colaboración y la creatividad, y donde pueda seguir creciendo como profesional.</p>
           </div>
